@@ -38,7 +38,10 @@
 </a>
   <a href="https://instagram.com/say_leks" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.leetcode.com/lekaasri_25" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="mailto:lekaasayu06@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lekaasayu06@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+</a>
+
 </p>
 
 ---
