@@ -21,7 +21,7 @@
 - 🔹 **AI/ML Foundations**  
 - 🔹 **Full-Stack Development**  
 
-💻 Project in Progress → **Java Online Compiler**
+💻 Project in Progress → **AI CODEBASE ONBOARDING ASSISTANT**
 
 ---
 
