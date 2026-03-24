@@ -69,12 +69,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flask,mysql,c,cpp,python,java,git,github,vscode" />
 </p>
 
-## 🤖 AI & ML
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-ML-blue?style=for-the-badge&logo=python" />
-</p>
-
 ---
 
 
